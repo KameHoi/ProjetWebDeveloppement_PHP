@@ -1,0 +1,40 @@
+ .msgErreur
+ {
+     background-color : red;
+     color : white;
+     margin: 10px;
+
+ }
+ .msgOK
+ {
+     background-color : greenyellow;
+     color : black;
+
+
+ }
+ .bg-iconnav {
+     background: #E1E9F7;
+     /* Old browsers */
+     background: -moz-linear-gradient(top, #E1E9F7 0%, #E1E9F7 100%);
+     /* FF3.6-15 */
+     background: -webkit-linear-gradient(top, #E1E9F7 0%, #E1E9F7 100%);
+     /* Chrome10-25,Safari5.1-6 */
+     background: linear-gradient(to bottom, #E1E9F7 0%, #E1E9F7 100%);
+     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E1E9F7', endColorstr='#E1E9F7', GradientType=0);
+     /* IE6-9 */
+     border-radius: 5px;
+     padding: 10px;
+ }
+ .navbar-toggler-icon {
+     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+ }
+
+ .inline{
+     display: inline-block;
+ }
+
+ img{
+     max-height: 150px;
+     max-width: 150px;
+ }
